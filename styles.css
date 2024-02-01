@@ -1,0 +1,82 @@
+/* Additional styles for the Fern Cafe text next to the logo */
+
+/* Header styles */
+header {
+    background-color: #6d426e; /* Deep purple */
+    color: #ffd700; /* Gold */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    width: 80px; /* Adjust the width as needed */
+    height: auto;
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+
+.logo span {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.lateral-nav ul {
+    list-style: none;
+    display: flex;
+}
+
+.lateral-nav ul li {
+    margin-right: 20px;
+}
+
+.lateral-nav a {
+    text-decoration: none;
+    color: #ffd700; /* Gold */
+    font-weight: bold;
+    font-size: 16px;
+}
+
+/* Hero Section styles */
+.hero {
+    position: relative;
+    text-align: center;
+}
+
+.hero img {
+    width: 100%;
+    height: auto;
+}
+
+.hero h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 36px;
+    font-family: 'Merienda', cursive; /* A fantasy-like font */
+}
+
+/* Footer styles */
+footer {
+    background-color: #6d426e; /* Deep purple */
+    color: #ffd700; /* Gold */
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contact-info, .social-icons, .newsletter-signup {
+    flex: 1;
+}
+
+.contact-info p {
+    margin-bottom: 10px;
+}
