@@ -29,7 +29,6 @@ Welcome to Fern Cafe: Where Enchanting Brews Meet Magical Moments. Home greeting
 
 Sample Products that attract clients
 
-
 ![Magical-Mocha](images/Product2.png)
 
 
