@@ -39,14 +39,6 @@ Catching users attention with display of description that is group together.
 Footer that state the sample contact details .
 
 
-# About the Authors
-
-
-
-**Name:** [Michael Angelo Demadura]
-
-**Email:** [202080036@psu.palawan.edu.ph ]
-=======
 ##### **About the Authors**
 
 *Name:* [Michael Angelo Demadura]
@@ -66,12 +58,5 @@ Footer that state the sample contact details .
 [![Image 4](Facebook.png)](https://web.facebook.com/jeffzoya)
 
 [![Image 4](Github.png)](https://github.com/Xcaliburr-AT)
-=======
-*Name:* [Jeffer Molato]
 
-*Email:* [2020120085@psu.palawan.edu.ph ]
-
-[![Image 4](Facebook.png)](https://web.facebook.com/jeffzoya)
-
-[![Image 4](Github.png)](https://github.com/Xcaliburr-AT)
 
