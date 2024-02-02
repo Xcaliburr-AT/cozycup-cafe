@@ -29,7 +29,7 @@ Welcome to Fern Cafe: Where Enchanting Brews Meet Magical Moments. Home greeting
 
 ![Whimsical-Latte](Image\Product1.png)
 
-Sample Products that attract clients/
+Sample Products that attract clients
 =======
 Sample Products that attract clients
 
